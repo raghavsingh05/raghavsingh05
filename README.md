@@ -1,7 +1,7 @@
 ### Hi I am RajRaghavSingh 👋
 
-- 🔭 I’m currently working on CSS 
-- 🌱 I’m currently learning Java Script
+- 🔭 I’m currently working on Software Development 
+- 🌱 I’m currently learning Java
 
  ## Analytics 📊
 <img src="https://github-readme-stats.vercel.app/api?username=raghavsingh05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
