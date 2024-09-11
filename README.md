@@ -87,9 +87,9 @@
             alt="postman" width="40" height="40" /> </a> </p>
 
 
-<a href="http://www.github.com/hxdy-1"><img src="https://github-readme-stats.vercel.app/api?username=hxdy-1&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="hxdy-1's GitHub stats" /></a>
+<a href="https://github.com/raghavsingh05"><img src="https://github-readme-stats.vercel.app/api?username=raghavsingh05&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="hxdy-1's GitHub stats" /></a>
 
-<a href="https://github.com/hxdy-1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxdy-1&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/raghavsingh05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsingh05&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/hxdy-1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hxdy-1&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/raghavsingh05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavsingh05&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
