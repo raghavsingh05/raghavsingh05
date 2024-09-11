@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/rajraghav05" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="rajraghav05" height="30" width="40" /></a>
+    <a href="https://x.com/Rajraghav05" target="blank"><img align="center"
+            src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png"
+            alt="rajraghav05" height="50" width="50" /></a>
     <a href="https://linkedin.com/in/raj-raghav-singh-195176271" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="raj-raghav-singh-195176271" height="30" width="40" /></a>
