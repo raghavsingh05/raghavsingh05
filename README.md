@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="70%"> </p>
 <h1 align="center">Hi 👋, I'm Raj Raghav Singh</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -29,6 +29,7 @@
     <a href="https://auth.geeksforgeeks.org/user/raghavsingh05/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="raghavsingh05/" height="30" width="40" /></a>
+    <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
