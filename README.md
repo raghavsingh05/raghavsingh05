@@ -29,7 +29,7 @@
     <a href="https://auth.geeksforgeeks.org/user/raghavsingh05/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="raghavsingh05/" height="30" width="40" /></a>
-    <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
+    <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
