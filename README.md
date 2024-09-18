@@ -53,7 +53,7 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
         rel="noreferrer"> <img
             src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
+            alt="nodejs" width="40" height="40" /></a> <a href="https://expressjs.com" target="_blank"
         rel="noreferrer"> <img
             src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg"
             alt="express" width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank"
