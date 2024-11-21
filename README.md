@@ -88,9 +88,3 @@
             src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg"
             alt="postman" width="40" height="40" /> </a> </p>
 
-
-<a href="https://github.com/raghavsingh05"><img src="https://github-readme-stats.vercel.app/api?username=raghavsingh05&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="hxdy-1's GitHub stats" /></a>
-
-<a href="https://github.com/raghavsingh05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsingh05&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
